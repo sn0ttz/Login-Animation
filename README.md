@@ -16,7 +16,7 @@ Before you start, you will need to have installed on your machine the following 
 Besides, it's good to have an editor to work with the code as [VSCode](https://code.visualstudio.com/)
 
 ### Clone this repository
-$ git clone https://github.com/sn0ttz/Animated-Card.git
+$ git clone https://github.com/sn0ttz/Login-Animation.git
 
 ### Have fun!
 Now with the clone on your machine just access it by VsCode and let your imagination act!
